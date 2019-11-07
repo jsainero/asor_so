@@ -1,0 +1,133 @@
+Error num 1 : Operation not permitted
+Error num 2 : No such file or directory
+Error num 3 : No such process
+Error num 4 : Interrupted system call
+Error num 5 : Input/output error
+Error num 6 : No such device or address
+Error num 7 : Argument list too long
+Error num 8 : Exec format error
+Error num 9 : Bad file descriptor
+Error num 10 : No child processes
+Error num 11 : Resource temporarily unavailable
+Error num 12 : Cannot allocate memory
+Error num 13 : Permission denied
+Error num 14 : Bad address
+Error num 15 : Block device required
+Error num 16 : Device or resource busy
+Error num 17 : File exists
+Error num 18 : Invalid cross-device link
+Error num 19 : No such device
+Error num 20 : Not a directory
+Error num 21 : Is a directory
+Error num 22 : Invalid argument
+Error num 23 : Too many open files in system
+Error num 24 : Too many open files
+Error num 25 : Inappropriate ioctl for device
+Error num 26 : Text file busy
+Error num 27 : File too large
+Error num 28 : No space left on device
+Error num 29 : Illegal seek
+Error num 30 : Read-only file system
+Error num 31 : Too many links
+Error num 32 : Broken pipe
+Error num 33 : Numerical argument out of domain
+Error num 34 : Numerical result out of range
+Error num 35 : Resource deadlock avoided
+Error num 36 : File name too long
+Error num 37 : No locks available
+Error num 38 : Function not implemented
+Error num 39 : Directory not empty
+Error num 40 : Too many levels of symbolic links
+Error num 41 : Unknown error 41
+Error num 42 : No message of desired type
+Error num 43 : Identifier removed
+Error num 44 : Channel number out of range
+Error num 45 : Level 2 not synchronized
+Error num 46 : Level 3 halted
+Error num 47 : Level 3 reset
+Error num 48 : Link number out of range
+Error num 49 : Protocol driver not attached
+Error num 50 : No CSI structure available
+Error num 51 : Level 2 halted
+Error num 52 : Invalid exchange
+Error num 53 : Invalid request descriptor
+Error num 54 : Exchange full
+Error num 55 : No anode
+Error num 56 : Invalid request code
+Error num 57 : Invalid slot
+Error num 58 : Unknown error 58
+Error num 59 : Bad font file format
+Error num 60 : Device not a stream
+Error num 61 : No data available
+Error num 62 : Timer expired
+Error num 63 : Out of streams resources
+Error num 64 : Machine is not on the network
+Error num 65 : Package not installed
+Error num 66 : Object is remote
+Error num 67 : Link has been severed
+Error num 68 : Advertise error
+Error num 69 : Srmount error
+Error num 70 : Communication error on send
+Error num 71 : Protocol error
+Error num 72 : Multihop attempted
+Error num 73 : RFS specific error
+Error num 74 : Bad message
+Error num 75 : Value too large for defined data type
+Error num 76 : Name not unique on network
+Error num 77 : File descriptor in bad state
+Error num 78 : Remote address changed
+Error num 79 : Can not access a needed shared library
+Error num 80 : Accessing a corrupted shared library
+Error num 81 : .lib section in a.out corrupted
+Error num 82 : Attempting to link in too many shared libraries
+Error num 83 : Cannot exec a shared library directly
+Error num 84 : Invalid or incomplete multibyte or wide character
+Error num 85 : Interrupted system call should be restarted
+Error num 86 : Streams pipe error
+Error num 87 : Too many users
+Error num 88 : Socket operation on non-socket
+Error num 89 : Destination address required
+Error num 90 : Message too long
+Error num 91 : Protocol wrong type for socket
+Error num 92 : Protocol not available
+Error num 93 : Protocol not supported
+Error num 94 : Socket type not supported
+Error num 95 : Operation not supported
+Error num 96 : Protocol family not supported
+Error num 97 : Address family not supported by protocol
+Error num 98 : Address already in use
+Error num 99 : Cannot assign requested address
+Error num 100 : Network is down
+Error num 101 : Network is unreachable
+Error num 102 : Network dropped connection on reset
+Error num 103 : Software caused connection abort
+Error num 104 : Connection reset by peer
+Error num 105 : No buffer space available
+Error num 106 : Transport endpoint is already connected
+Error num 107 : Transport endpoint is not connected
+Error num 108 : Cannot send after transport endpoint shutdown
+Error num 109 : Too many references: cannot splice
+Error num 110 : Connection timed out
+Error num 111 : Connection refused
+Error num 112 : Host is down
+Error num 113 : No route to host
+Error num 114 : Operation already in progress
+Error num 115 : Operation now in progress
+Error num 116 : Stale file handle
+Error num 117 : Structure needs cleaning
+Error num 118 : Not a XENIX named type file
+Error num 119 : No XENIX semaphores available
+Error num 120 : Is a named type file
+Error num 121 : Remote I/O error
+Error num 122 : Disk quota exceeded
+Error num 123 : No medium found
+Error num 124 : Wrong medium type
+Error num 125 : Operation canceled
+Error num 126 : Required key not available
+Error num 127 : Key has expired
+Error num 128 : Key has been revoked
+Error num 129 : Key was rejected by service
+Error num 130 : Owner died
+Error num 131 : State not recoverable
+Error num 132 : Operation not possible due to RF-kill
+Error num 133 : Memory page has hardware error

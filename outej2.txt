@@ -1,0 +1,10 @@
+sistema: Linux
+Version: #60-Ubuntu SMP Tue Jul 2 18:22:20 UTC 2019
+Release: 4.15.0-55-generic
+Maquina: x86_64
+Nodo: pto0619
+Longitud maxima de los argumentos: 2097152
+Numero maximo de hijos: 62890
+Numero maximo de ficheros abiertos: 1024
+Numero máximo de enlaces: 65000
+Tamano maximo de una ruta: 4096

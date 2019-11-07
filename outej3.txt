@@ -1,0 +1,5 @@
+ID real: 555
+ID efectivo: 555
+Nombre: usuario_local
+Home: /home/hlocal
+Descripcion: Usuario Local
